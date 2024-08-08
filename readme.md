@@ -12,8 +12,8 @@ Welcome to the Termux Commands List.This Document Provides A Comprehensive List 
 6. [System Monitoring Commands](#system-monitoring)
 7. [System Management Commands](#system-management)
 8. [File Compression Commands](#file-compression)
-9. [Scripting And Automation Commands](#scripting-and-automation)
-10. [Text Processing Commands](#text-processing)
+9. [Text Processing Commands](#text-processing)
+10. [Scripting And Automation Commands](#scripting-and-automation)
 
 ## File Management
 
@@ -107,8 +107,8 @@ Commands for managing system components and troubleshooting issues:
 
 [Detailed List](system_management_commands.md)
 
-## File Compression
-Commands For File Compressing And Other Archives.
+## Text Processing
+Commands For Text Process And Other Text Editors.
 
 - **`cat`**: Concatenates and displays file contents
 - **`tac`**: Displays file contents in reverse order.
@@ -116,7 +116,7 @@ Commands For File Compressing And Other Archives.
 - **`tail`**: Displays the last part of a file.
 - **`grep`**: Searches for patterns in files.
 
-[Detailed List](file_compression_commands.md)
+[Detailed List](text_processing_commands.md)
 
 ## Scripting And Automation
 Commands That Can Be Used For Scripting And Automation In Termux.
@@ -127,6 +127,17 @@ Commands That Can Be Used For Scripting And Automation In Termux.
 - **`echo`**: Displays A Message Or Variable Value.
 
 [Detailed List](scripting_and_automation_commands.md)
+
+## File Compression
+Commands For File Compressing And Other Archives.
+
+- **`gzip`**: Compresses files using the GNU zip compression algorithm.
+- **`gunzip`**: Decompresses files compressed with `gzip`
+- **`bzip2`**: Compresses files using the bzip2 compression algorithm.
+- **`bunzip2`**: Decompresses files compressed with `bzip2`.
+- **`xz`**: Compresses files using the xz compression algorithm.
+
+[Detailed List](file_compression_commands.md)
 
 ---
 
