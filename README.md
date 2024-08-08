@@ -1,6 +1,6 @@
-# Termux Command Reference
+# Termux Commands List 
 
-Welcome to the Termux Command Reference! This document provides a comprehensive list of commands categorized by their functionality to help you efficiently manage and use Termux.
+Welcome to the Termux Commands List.This Document Provides A Comprehensive List Of Termux Commands Categorized By Their Functionality To Help You Efficiently Manage And Use Termux. These Commands Can Also Be Find At My Website [Termux Tools](https://termuxtools.com)
 
 ## Table of Contents
 
@@ -9,11 +9,8 @@ Welcome to the Termux Command Reference! This document provides a comprehensive 
 3. [Navigation](#navigation)
 4. [Package Management](#package-management)
 5. [Security and Permissions](#security-and-permissions)
-6. [System Information and Monitoring](#system-information-and-monitoring)
-7. [Environment Management](#environment-management)
-8. [Development Tools](#development-tools)
-9. [File Synchronization and Backup](#file-synchronization-and-backup)
-10. [System Management and Troubleshooting](#system-management-and-troubleshooting)
+6. [System Monitoring](#system-monitoring)
+7. [System Management](#system-management)
 
 ## File Management
 
@@ -82,7 +79,7 @@ Commands related to managing file permissions, user rights, and system security:
 
 [Detailed List](security_and_permissions_commands.md)
 
-## System Information and Monitoring
+## System Monitoring
 
 Commands for monitoring system performance and resource usage:
 
@@ -93,44 +90,9 @@ Commands for monitoring system performance and resource usage:
 - **`df`**: Display disk space usage.
 - **`free`**: Show memory usage statistics.
 
-[Detailed List](system_information_and_monitoring_commands.md)
+[Detailed List](system_monitoring_commands.md)
 
-## Environment Management
-
-Commands for managing environment variables and shell configurations:
-
-- **`export`**: Set environment variables.
-- **`source`**: Execute commands from a file in the current shell session.
-- **`alias`**: Create shortcuts for commands.
-- **`umask`**: Set default permission mask for new files and directories.
-
-[Detailed List](environment_management_commands.md)
-
-## Development Tools
-
-Commands for compiling code, managing version control, and building projects:
-
-- **`gcc`**: GNU Compiler Collection.
-- **`g++`**: GNU C++ Compiler.
-- **`git`**: Version control system.
-- **`make`**: Build automation tool.
-- **`cmake`**: Build system generator.
-
-[Detailed List](development_tools_commands.md)
-
-## File Synchronization and Backup
-
-Commands for synchronizing files and creating backups:
-
-- **`rsync`**: Synchronize files and directories.
-- **`cp`**: Copy files and directories.
-- **`tar`**: Archive files and directories.
-- **`gzip`**: Compress files using gzip.
-- **`dd`**: Convert and copy files, often used for disk images.
-
-[Detailed List](file_synchronization_and_backup_commands.md)
-
-## System Management and Troubleshooting
+## System Management
 
 Commands for managing system components and troubleshooting issues:
 
@@ -140,7 +102,7 @@ Commands for managing system components and troubleshooting issues:
 - **`ping`**: Network connectivity testing.
 - **`top`**: System performance monitoring.
 
-[Detailed List](system_management_and_troubleshooting_commands.md)
+[Detailed List](system_management_commands.md)
 
 ---
 
