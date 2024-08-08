@@ -4,13 +4,16 @@ Welcome to the Termux Commands List.This Document Provides A Comprehensive List 
 
 ## Table of Contents
 
-1. [File Management](#file-management)
-2. [Networking](#networking)
-3. [Navigation](#navigation)
-4. [Package Management](#package-management)
-5. [Security and Permissions](#security-and-permissions)
-6. [System Monitoring](#system-monitoring)
-7. [System Management](#system-management)
+1. [File Management Commands](#file-management)
+2. [Networking Commands](#networking)
+3. [Navigation Commands](#navigation)
+4. [Package Management Commands](#package-management)
+5. [Security And Permissions Commands](#security-and-permissions)
+6. [System Monitoring Commands](#system-monitoring)
+7. [System Management Commands](#system-management)
+8. [File Compression Commands](#file-compression)
+9. [Scripting And Automation Commands](#scripting-and-automation)
+10. [Text Processing Commands](#text-processing)
 
 ## File Management
 
@@ -103,6 +106,27 @@ Commands for managing system components and troubleshooting issues:
 - **`top`**: System performance monitoring.
 
 [Detailed List](system_management_commands.md)
+
+## File Compression
+Commands For File Compressing And Other Archives.
+
+- **`cat`**: Concatenates and displays file contents
+- **`tac`**: Displays file contents in reverse order.
+- **`head`**: Displays the first part of a file.
+- **`tail`**: Displays the last part of a file.
+- **`grep`**: Searches for patterns in files.
+
+[Detailed List](file_compression_commands.md)
+
+## Scripting And Automation
+Commands That Can Be Used For Scripting And Automation In Termux.
+
+- **`bash`**: The Bourne Again Shell, A popular shell for scripting.
+- **`#!/bin/bash`**: Shebang Line Used To Specify The Script Interpreter.
+- **`chmod +x`**: Makes A Script Executable.
+- **`echo`**: Displays A Message Or Variable Value.
+
+[Detailed List](scripting_and_automation_commands.md)
 
 ---
 
