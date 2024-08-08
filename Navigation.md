@@ -1,0 +1,12 @@
+### Chapter 2: Termux Navigation Commands.
+- **`pwd`** :Print Working Directory. Displays The Current Directory Path.
+- **`ls`** :List directory contents. Shows files and directories in the current directory.
+  - `ls -l` : Detailed List (Long Format)
+  - `ls -a` : Include Hidden Files
+- **`cd [directory]`** :Change Directory. Navigates To The Specified Directory.
+  - `cd /storage/emulated/0/` :Navigates To Internal Storage.
+- **`cd ..`** :Move Up One Directory Level.
+- **`cd -`** :Switch to the previous directory.
+- **`mkdir [directory]`** :Make Directory. Creates a new directory.
+- **`rmdir [directory]`** :Remove Directory. Deletes an empty directory.
+- **`rm -r [directory]`** :Remove Directory and its contents. Deletes a directory and all its files and subdirectories.
