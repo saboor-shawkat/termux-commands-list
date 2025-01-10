@@ -1,6 +1,6 @@
 # Termux Commands List 
 
-Welcome to the Termux Commands List.This Document Provides A Comprehensive List Of Termux Commands Categorized By Their Functionality To Help You Efficiently Manage And Use Termux. These Commands Can Also Be Find At My Website [Termux Tools](https://termuxtools.com)
+Welcome to the Termux Commands List.This Document Provides A Comprehensive List Of Termux Commands Categorized By Their Functionality To Help You Efficiently Manage And Use Termux. These Commands Can Also Be Find At My Website [Geek Times](https://geek-times.com)
 
 ## Table of Contents
 
